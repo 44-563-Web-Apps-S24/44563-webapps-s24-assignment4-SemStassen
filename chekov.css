@@ -1,0 +1,29 @@
+.speech {
+  font-size: 16px;
+  font-family: "Times New Roman", Times, serif;
+  color: black;
+}
+
+.direction {
+  font-size: 14px;
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+  color: black;
+  background-color: lightskyblue;
+}
+
+.direction:hover {
+  background-color: lightcoral;
+  color: oldlace;
+}
+
+.fedya {
+  color: orchid;
+}
+
+.savva {
+  color: navy;
+}
+
+.bortsov {
+  color: brown;
+}

@@ -16,6 +16,14 @@
   color: oldlace;
 }
 
+.name {
+  border: 1px solid peru;
+}
+
+.name:hover {
+  text-shadow: palevioletred 1px 1px;
+}
+
 .fedya {
   color: orchid;
 }

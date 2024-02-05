@@ -17,6 +17,7 @@
 }
 
 .name {
+  display: inline;
   border: 1px solid peru;
 }
 
@@ -50,5 +51,26 @@ td {
 
 th,
 td {
+  padding: 0.5rem;
+}
+
+.icon {
+  display: inline-block;
+  width: 16px;
+  height: 16px;
+}
+
+img {
+  width: 300px;
+  height: auto;
+  object-fit: contain;
+}
+
+nav ul {
+  list-style: none;
+  display: flex;
+  gap: 1rem;
+  background-color: orange;
+  width: fit-content;
   padding: 0.5rem;
 }
